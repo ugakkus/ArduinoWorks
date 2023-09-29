@@ -1,2 +1,1 @@
-# ArduinoWorks
-arduino çalışmalarını yüklediğim bir yer gibi bir tanımlama yapacaksın.
+I continue my studies on embedded systems. I am currently working on electronic components and PCB designs, C, Assembly and robotic coding.
